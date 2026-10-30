@@ -1,7 +1,0 @@
-{
-  "python_compatibility": "Python 3.10 or later",
-  "scikit_learn": "1.8.0",
-  "pandas": "2.2.3",
-  "numpy": "2.3.5",
-  "joblib": "1.5.3"
-}
