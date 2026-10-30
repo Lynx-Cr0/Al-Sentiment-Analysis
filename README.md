@@ -296,5 +296,5 @@ This project demonstrates how to:
 
 ---
 
-**Academic project:** Month 2 – AI-Powered Sentiment Analysis System  
+**Academic project:** AI-Powered Sentiment Analysis System  
 **Focus:** Natural Language Processing, Machine Learning, and Streamlit deployment
